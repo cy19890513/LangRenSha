@@ -7,7 +7,9 @@
 
 ## 我可以参加贡献么?
 
-非常欢迎. 请通过[提交Github Pull Request](https://help.github.com/articles/about-pull-requests/)这种方式参与合作.
+非常欢迎. 
+
+这个文档的源文件在 [https://github.com/apc999/LangRenSha]. 请通过[提交Github Pull Request](https://help.github.com/articles/about-pull-requests/)这种方式参与合作.
 
 ## 面杀么?
 我们一般周五晚上在Mountain View附近面杀.
